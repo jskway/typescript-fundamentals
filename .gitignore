@@ -4,3 +4,4 @@
 .vscode
 lerna-debug.log
 **/tempCodeRunnerFile.ts
+*.swp
